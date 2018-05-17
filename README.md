@@ -1,1 +1,2 @@
-# Bootsprap-part-II
+# bootstrap_test
+Вводный урок по BS
